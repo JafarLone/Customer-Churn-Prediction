@@ -1,0 +1,7 @@
+CustomerID,MonthlySpend,TotalPurchaseFrequency,Tenure,CustomerType,Churn
+1,50,15,24,Regular,0
+2,80,30,12,VIP,1
+3,30,20,36,Regular,0
+4,80,25,18,Regular,1
+5,90,10,8,VIP,1
+6,50,17,11,VIP,0
